@@ -1,0 +1,6 @@
+{
+  "appId": "com.mydiary.games",
+  "appName": "Дневник игр",
+  "webDir": "www",
+  "android": { "backgroundColor": "#101319" }
+}
